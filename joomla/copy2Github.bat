@@ -1,0 +1,1 @@
+powershell.exe -File copy2Github.ps1
